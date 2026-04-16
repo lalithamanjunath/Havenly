@@ -1,6 +1,6 @@
 import NavBar from "./components/NavBar"; 
 import home1 from "./assets/home1.jpeg";
-import HeroContent from "./components/heroContent";
+import HeroContent from "./components/HeroContent";
 import AboutUs from "./components/AboutUs";
 import Properties from "./components/Properties";
 import Features from "./components/Features";
